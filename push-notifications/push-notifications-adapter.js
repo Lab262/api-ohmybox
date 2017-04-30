@@ -8,7 +8,7 @@ function getAdapterForEnvironment() {
                 {
                     pfx: './push-notifications/resources/lab262.ohmybox.store.production.p12', // Dev PFX or P12
                     bundleId: 'lab262.ohmybox.store.production',
-                    passphrase: '', // optional password to your p12
+                    passphrase: 'lab262$$$', // optional password to your p12
                     production: true // Dev
                 }
             ]
@@ -19,13 +19,13 @@ function getAdapterForEnvironment() {
                 {
                     pfx: './push-notifications/resources/lab262.ohmybox.store.test.p12', // Dev PFX or P12
                     bundleId: 'lab262.ohmybox.store.test',
-                    passphrase: 'lab26255lab$$$', // optional password to your p12
+                    passphrase: 'lab262$$$', // optional password to your p12
                     production: true // Production
                 },
                 {
                     pfx: './push-notifications/resources/lab262.ohmybox.store.test-dev.p12', // Dev PFX or P12
                     bundleId: 'lab262.ohmybox.store.test',
-                    passphrase: 'lab26255lab$$$', // optional password to your p12
+                    passphrase: 'lab262$$$', // optional password to your p12
                     production: false // Production
                 },
             ]
@@ -36,7 +36,7 @@ function getAdapterForEnvironment() {
                 {
                     pfx: './push-notifications/resources/lab262.ohmybox.store.dev.p12', // Dev PFX or P12
                     bundleId: 'lab262.ohmybox.store.dev',
-                    passphrase: 'lab26255lab$$$', // optional password to your p12
+                    passphrase: 'lab262$$$', // optional password to your p12
                     production: false // Dev
                 }
             ]
