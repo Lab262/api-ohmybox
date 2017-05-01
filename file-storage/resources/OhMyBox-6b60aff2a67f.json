@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ohmybox-166305",
+  "private_key_id": "6b60aff2a67f735180b1fbe441fa3dd007e8d823",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC8/v+KRyobuhKK\nrt9fc3ytRiqoejJHxdAnyeFlvGixJnmKRmbZAPIYEvp1qMamP4rBUkSxhGahOOtr\n5NnR6QPvhAmq8m2PfNW9LvFvbnZHWoarW0FmVFScIVlPxQRlneLPBj++fizbFxu5\nPG+UOuJOZWgRhOmbMNBdpqDbkptJhsBiBqJXrFLmGP7izBixTua66SEEB/XrSiHr\nXS5eFtfDl1wbncoG9P5WZDoJ7lHvhdVnjmqtNG5wKVkD++rAStxtk+eV0H8kNe0S\nEBgmBTxKSzMV8oQtaSMNPDBTrzpI6ROjQVXME6aWDwiQUb9ereQWSL9lDJB3p1VL\nNO1Gu+whAgMBAAECggEAFSfWIvxkUkY53RxGFMEwq5S3IbTL/AzAiDOo72JvtaTA\n5iGLUa8xalB1iMYjtmhWd91loxlXA6UDdUhguYaD0kPNcT1B1lX69vpSPE75HnOb\nr4K/h1zZO8Df5nX/UACkatggOoqVKtEjYVDKjKUqv+vKAmwGWkDUkiccyndWupwR\nZb0C0CQUFylgiQH5SvqoLQppV0zNsDHjzJ+yNXstQ324mHCpYxKWFtPjAUQ1/rTh\nzKEqWytJnTlSsjpZXcDBl1GZ14NJFh4HX7HbHSaQfDs9UsHXDiDiTG9nBWhlJkmd\ntHIMkJqA9yilFChX62rT35t206uPTl6Qtaly+2MHgQKBgQDx0nutVAbd9xlEwi3F\n1d35kJuybIFY1lG1bPyczUEvDI+539TofkhdwLc1u9PAeSqlq9uH0Q2noa1AWt58\n0v/bB1AsQftSSYzEFc1vf63S/DHYMENO5AA1eruWbVsVYbB1KqqxUrrkWWEnf+jj\nFc7lnw5ezpaN4w8ake5RmfIF3QKBgQDIE6V1iEqUFnNQhHlkjSKl/LUPnSyL4Me1\naMJRu+sPN5+jsY0TGJaIP1fOPsbXti+eO3SqmGUk3pL9vHsbAm+Zi4/nrUSLKkFl\nXaXyG0Fwd0lReayh4q1PYDEyKMqz4oSxhbfUHqYIzzAar1kVqaXJ5YYWW8Bx5wZB\nRr2DN+KlFQKBgGLhfGz9hOlSVuTEuc7Bisi3ltK4h5N532NeM1UyoMrKSiLpIbgH\nmzOqz7+LFCUJ5qRjx5qbowe+lodQINXNuY0oSmIugMO/C25Ks/w5qywwr3kFEyC5\nHlS/4OC7ypjNn0fpsG5ds8oXuiBarzHcAwPlrAycUPents9YiKiZWFuJAoGAKjo7\nSbsiQm8al3veQyKmlXHopQr/Q+aFP/yERsvqqKOMxffLVqRx4P+9gIIvZYfGNRdH\nYFoZvtZbH8KQGPtCop2aGcOwG88nTkWdqKOoBBypFNEhZml5Oq+KspN5dM3yQ6V9\nTv/I+0L/XCJ2IuRTYXFYA5AJ5gBkiZJsnS1GYKECgYB8CmR31NIPzQlvoxJf2pPD\neXdYgOsqWJl5clTPfZW9InlGp90SsA4EzMN/yDesj01jBv/AFLigY68I/n5r8Fcz\nOKp0t79H1SQ+dchcmBZniP097CgwXhjKhWogZUp69i5UFmlf9jfPkqYS6EMIyFBi\nLVgXroYcLgruoNo7COl5sA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "parse-file-storage@ohmybox-166305.iam.gserviceaccount.com",
+  "client_id": "100754365866098234763",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/parse-file-storage%40ohmybox-166305.iam.gserviceaccount.com"
+}
