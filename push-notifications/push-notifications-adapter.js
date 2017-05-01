@@ -10,6 +10,12 @@ function getAdapterForEnvironment() {
                     bundleId: 'lab262.ohmybox.store.production',
                     passphrase: 'lab262$$$', // optional password to your p12
                     production: true // Dev
+                },
+                {
+                    pfx: './push-notifications/resources/lab262.ohmybox.sales.production.p12', // Dev PFX or P12
+                    bundleId: 'lab262.ohmybox.sales.production',
+                    passphrase: 'lab262$$$', // optional password to your p12
+                    production: true // Dev
                 }
             ]
         }
@@ -28,6 +34,18 @@ function getAdapterForEnvironment() {
                     passphrase: 'lab262$$$', // optional password to your p12
                     production: false // Production
                 },
+                {
+                    pfx: './push-notifications/resources/lab262.ohmybox.sales.test.p12', // Dev PFX or P12
+                    bundleId: 'lab262.ohmybox.sales.test',
+                    passphrase: 'lab262$$$', // optional password to your p12
+                    production: true // Production
+                },
+                {
+                    pfx: './push-notifications/resources/lab262.ohmybox.sales.test-dev.p12', // Dev PFX or P12
+                    bundleId: 'lab262.ohmybox.sales.test',
+                    passphrase: 'lab262$$$', // optional password to your p12
+                    production: false // Production
+                },
             ]
         }
     } else {
@@ -36,6 +54,12 @@ function getAdapterForEnvironment() {
                 {
                     pfx: './push-notifications/resources/lab262.ohmybox.store.dev.p12', // Dev PFX or P12
                     bundleId: 'lab262.ohmybox.store.dev',
+                    passphrase: 'lab262$$$', // optional password to your p12
+                    production: false // Dev
+                },
+                {
+                    pfx: './push-notifications/resources/lab262.ohmybox.sales.dev.p12', // Dev PFX or P12
+                    bundleId: 'lab262.ohmybox.sales.dev',
                     passphrase: 'lab262$$$', // optional password to your p12
                     production: false // Dev
                 }
